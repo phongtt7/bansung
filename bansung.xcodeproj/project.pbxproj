@@ -14,6 +14,17 @@
 		5E5BAF761CC78E3D002C1A63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF741CC78E3D002C1A63 /* Main.storyboard */; };
 		5E5BAF781CC78E3D002C1A63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF771CC78E3D002C1A63 /* Assets.xcassets */; };
 		5E5BAF7B1CC78E3D002C1A63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF791CC78E3D002C1A63 /* LaunchScreen.storyboard */; };
+		5E5BAF891CC79F7C002C1A63 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF821CC79F7C002C1A63 /* 1.png */; };
+		5E5BAF8A1CC79F7C002C1A63 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF831CC79F7C002C1A63 /* 2.png */; };
+		5E5BAF8B1CC79F7C002C1A63 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF841CC79F7C002C1A63 /* 3.png */; };
+		5E5BAF8C1CC79F7C002C1A63 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF851CC79F7C002C1A63 /* 4.png */; };
+		5E5BAF8D1CC79F7C002C1A63 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF861CC79F7C002C1A63 /* 5.png */; };
+		5E5BAF8E1CC79F7C002C1A63 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF871CC79F7C002C1A63 /* 6.png */; };
+		5E5BAF8F1CC79F7C002C1A63 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF881CC79F7C002C1A63 /* 7.png */; };
+		5E5BAF911CC7AEC8002C1A63 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF901CC7AEC8002C1A63 /* 8.png */; };
+		5E5BAF931CC7B27D002C1A63 /* shoot.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF921CC7B27D002C1A63 /* shoot.mp3 */; };
+		5E5BAF9A1CC7BD2F002C1A63 /* lua.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF981CC7BD2F002C1A63 /* lua.sks */; };
+		5E5BAF9B1CC7BD2F002C1A63 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5BAF991CC7BD2F002C1A63 /* spark.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +37,17 @@
 		5E5BAF771CC78E3D002C1A63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E5BAF7A1CC78E3D002C1A63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E5BAF7C1CC78E3D002C1A63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E5BAF821CC79F7C002C1A63 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		5E5BAF831CC79F7C002C1A63 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		5E5BAF841CC79F7C002C1A63 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		5E5BAF851CC79F7C002C1A63 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		5E5BAF861CC79F7C002C1A63 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		5E5BAF871CC79F7C002C1A63 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		5E5BAF881CC79F7C002C1A63 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		5E5BAF901CC7AEC8002C1A63 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		5E5BAF921CC7B27D002C1A63 /* shoot.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shoot.mp3; sourceTree = "<group>"; };
+		5E5BAF981CC7BD2F002C1A63 /* lua.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = lua.sks; sourceTree = "<group>"; };
+		5E5BAF991CC7BD2F002C1A63 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +80,15 @@
 		5E5BAF6B1CC78E3D002C1A63 /* bansung */ = {
 			isa = PBXGroup;
 			children = (
+				5E5BAF921CC7B27D002C1A63 /* shoot.mp3 */,
+				5E5BAF901CC7AEC8002C1A63 /* 8.png */,
+				5E5BAF821CC79F7C002C1A63 /* 1.png */,
+				5E5BAF831CC79F7C002C1A63 /* 2.png */,
+				5E5BAF841CC79F7C002C1A63 /* 3.png */,
+				5E5BAF851CC79F7C002C1A63 /* 4.png */,
+				5E5BAF861CC79F7C002C1A63 /* 5.png */,
+				5E5BAF871CC79F7C002C1A63 /* 6.png */,
+				5E5BAF881CC79F7C002C1A63 /* 7.png */,
 				5E5BAF6C1CC78E3D002C1A63 /* AppDelegate.swift */,
 				5E5BAF6E1CC78E3D002C1A63 /* GameScene.sks */,
 				5E5BAF701CC78E3D002C1A63 /* GameScene.swift */,
@@ -66,6 +97,8 @@
 				5E5BAF771CC78E3D002C1A63 /* Assets.xcassets */,
 				5E5BAF791CC78E3D002C1A63 /* LaunchScreen.storyboard */,
 				5E5BAF7C1CC78E3D002C1A63 /* Info.plist */,
+				5E5BAF981CC7BD2F002C1A63 /* lua.sks */,
+				5E5BAF991CC7BD2F002C1A63 /* spark.png */,
 			);
 			path = bansung;
 			sourceTree = "<group>";
@@ -129,10 +162,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E5BAF911CC7AEC8002C1A63 /* 8.png in Resources */,
+				5E5BAF8F1CC79F7C002C1A63 /* 7.png in Resources */,
+				5E5BAF8A1CC79F7C002C1A63 /* 2.png in Resources */,
 				5E5BAF6F1CC78E3D002C1A63 /* GameScene.sks in Resources */,
 				5E5BAF7B1CC78E3D002C1A63 /* LaunchScreen.storyboard in Resources */,
 				5E5BAF781CC78E3D002C1A63 /* Assets.xcassets in Resources */,
+				5E5BAF9A1CC7BD2F002C1A63 /* lua.sks in Resources */,
+				5E5BAF8E1CC79F7C002C1A63 /* 6.png in Resources */,
+				5E5BAF8C1CC79F7C002C1A63 /* 4.png in Resources */,
+				5E5BAF931CC7B27D002C1A63 /* shoot.mp3 in Resources */,
+				5E5BAF9B1CC7BD2F002C1A63 /* spark.png in Resources */,
 				5E5BAF761CC78E3D002C1A63 /* Main.storyboard in Resources */,
+				5E5BAF8D1CC79F7C002C1A63 /* 5.png in Resources */,
+				5E5BAF8B1CC79F7C002C1A63 /* 3.png in Resources */,
+				5E5BAF891CC79F7C002C1A63 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
